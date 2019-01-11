@@ -1,0 +1,14 @@
+//pour que le tire du post ne soit pas trop collé en haut
+h2 {
+  margin-top: 10px;
+}
+
+//marge pour le contenu intérieur de chaque post
+.postinter {
+  padding: 15px;
+}
+
+//date et heure du post écrites en italique
+.heurepost {
+  font-style: italic;
+}
